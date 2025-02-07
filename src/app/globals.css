@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dropzone {
+    border: 1px dashed black;
+    text-align: center; 
+    padding: 50px;
+    max-width: 1000px;
+    margin-top: 20px;
+}
